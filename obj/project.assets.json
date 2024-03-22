@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ter\\Desktop\\Programing2\\Exam unit3\\Exam unit3.csproj",
+      "projectUniqueName": "c:\\Users\\Ter\\Desktop\\Programing2\\Repo Exam3\\Exam-unit3\\Exam unit3.csproj",
       "projectName": "Exam unit3",
-      "projectPath": "C:\\Users\\Ter\\Desktop\\Programing2\\Exam unit3\\Exam unit3.csproj",
+      "projectPath": "c:\\Users\\Ter\\Desktop\\Programing2\\Repo Exam3\\Exam-unit3\\Exam unit3.csproj",
       "packagesPath": "C:\\Users\\Ter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ter\\Desktop\\Programing2\\Exam unit3\\obj\\",
+      "outputPath": "c:\\Users\\Ter\\Desktop\\Programing2\\Repo Exam3\\Exam-unit3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ter\\AppData\\Roaming\\NuGet\\NuGet.Config"

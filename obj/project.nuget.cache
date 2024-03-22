@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2f2RBalqT5uaqmDU1ets1baOl895hNyvLMHZweiNmsT6lHfveyQdP+iYWmYO6EUEl1UcIEkzZjLO4lrd5Y9b/w==",
+  "dgSpecHash": "9EkCJe3tSfnOz3OjivrpNiha39mpzMmx68XrofMqy9qnrBpLKWVB3qU+LTa2wiL8+0Gl0b9whcoJ3YBbB0DGdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ter\\Desktop\\Programing2\\Exam unit3\\Exam unit3.csproj",
+  "projectFilePath": "C:\\Users\\Ter\\Desktop\\Programing2\\Repo Exam3\\Exam-unit3\\Exam unit3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ter\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

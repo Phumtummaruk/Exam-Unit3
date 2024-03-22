@@ -16,3 +16,21 @@ C:\Users\Ter\Desktop\Programing2\Exam unit3\obj\Debug\net8.0\ref\Exam unit3.dll
 C:\Users\Ter\Desktop\Programing2\Exam unit3\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Ter\Desktop\Programing2\Exam unit3\obj\Debug\net8.0\Exam unit3.csproj.AssemblyReference.cache
 C:\Users\Ter\Desktop\Programing2\Exam unit3\obj\Debug\net8.0\Exam unit3.csproj.Up2Date
+C:\Users\Ter\Desktop\Programing2\Repo Exam3\Exam-unit3\bin\Debug\net8.0\Exam unit3.exe
+C:\Users\Ter\Desktop\Programing2\Repo Exam3\Exam-unit3\bin\Debug\net8.0\Exam unit3.deps.json
+C:\Users\Ter\Desktop\Programing2\Repo Exam3\Exam-unit3\bin\Debug\net8.0\Exam unit3.runtimeconfig.json
+C:\Users\Ter\Desktop\Programing2\Repo Exam3\Exam-unit3\bin\Debug\net8.0\Exam unit3.dll
+C:\Users\Ter\Desktop\Programing2\Repo Exam3\Exam-unit3\bin\Debug\net8.0\Exam unit3.pdb
+C:\Users\Ter\Desktop\Programing2\Repo Exam3\Exam-unit3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Ter\Desktop\Programing2\Repo Exam3\Exam-unit3\obj\Debug\net8.0\Exam unit3.csproj.AssemblyReference.cache
+C:\Users\Ter\Desktop\Programing2\Repo Exam3\Exam-unit3\obj\Debug\net8.0\Exam unit3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ter\Desktop\Programing2\Repo Exam3\Exam-unit3\obj\Debug\net8.0\Exam unit3.AssemblyInfoInputs.cache
+C:\Users\Ter\Desktop\Programing2\Repo Exam3\Exam-unit3\obj\Debug\net8.0\Exam unit3.AssemblyInfo.cs
+C:\Users\Ter\Desktop\Programing2\Repo Exam3\Exam-unit3\obj\Debug\net8.0\Exam unit3.csproj.CoreCompileInputs.cache
+C:\Users\Ter\Desktop\Programing2\Repo Exam3\Exam-unit3\obj\Debug\net8.0\Exam unit3.sourcelink.json
+C:\Users\Ter\Desktop\Programing2\Repo Exam3\Exam-unit3\obj\Debug\net8.0\Exam unit3.csproj.Up2Date
+C:\Users\Ter\Desktop\Programing2\Repo Exam3\Exam-unit3\obj\Debug\net8.0\Exam unit3.dll
+C:\Users\Ter\Desktop\Programing2\Repo Exam3\Exam-unit3\obj\Debug\net8.0\refint\Exam unit3.dll
+C:\Users\Ter\Desktop\Programing2\Repo Exam3\Exam-unit3\obj\Debug\net8.0\Exam unit3.pdb
+C:\Users\Ter\Desktop\Programing2\Repo Exam3\Exam-unit3\obj\Debug\net8.0\Exam unit3.genruntimeconfig.cache
+C:\Users\Ter\Desktop\Programing2\Repo Exam3\Exam-unit3\obj\Debug\net8.0\ref\Exam unit3.dll
