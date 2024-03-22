@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ter\\Desktop\\Programing2\\Repo Exam3\\Exam-unit3\\Exam unit3.csproj": {}
+    "C:\\Users\\Ter\\Desktop\\Programing2\\Repo Exam3\\Exam-unit3-1\\Exam unit3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ter\\Desktop\\Programing2\\Repo Exam3\\Exam-unit3\\Exam unit3.csproj": {
+    "C:\\Users\\Ter\\Desktop\\Programing2\\Repo Exam3\\Exam-unit3-1\\Exam unit3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ter\\Desktop\\Programing2\\Repo Exam3\\Exam-unit3\\Exam unit3.csproj",
+        "projectUniqueName": "C:\\Users\\Ter\\Desktop\\Programing2\\Repo Exam3\\Exam-unit3-1\\Exam unit3.csproj",
         "projectName": "Exam unit3",
-        "projectPath": "C:\\Users\\Ter\\Desktop\\Programing2\\Repo Exam3\\Exam-unit3\\Exam unit3.csproj",
+        "projectPath": "C:\\Users\\Ter\\Desktop\\Programing2\\Repo Exam3\\Exam-unit3-1\\Exam unit3.csproj",
         "packagesPath": "C:\\Users\\Ter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ter\\Desktop\\Programing2\\Repo Exam3\\Exam-unit3\\obj\\",
+        "outputPath": "C:\\Users\\Ter\\Desktop\\Programing2\\Repo Exam3\\Exam-unit3-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ter\\AppData\\Roaming\\NuGet\\NuGet.Config"
